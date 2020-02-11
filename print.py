@@ -1,13 +1,9 @@
 import sys
 import time
 
-def fileprint:
-  '''
-  the simple fileprint function.
-  
-  '''
+def print:
   print('Hello World')
   
-fileprint()
 
-#eidt the file again by thomas
+print()
+
