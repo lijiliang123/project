@@ -1,7 +1,12 @@
 import sys
 import time
 
-def print:
-  print('Hello World')
+def fileprint:
+  # the function is very simple, but the name print is illegal.
   
-print()
+  print('Hello World')
+  print('the date is', date())
+  
+fileprint()
+
+# amend the file code by thomas
